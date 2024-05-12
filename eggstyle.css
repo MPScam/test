@@ -1,7 +1,10 @@
+*{
+  text-align: center;
+}
+
 ​h1 {
   width:100%
   color:LightGray;
-  text-align: center;
   font-family: Georgia, serif;
   font-size: 35px;
 } 
